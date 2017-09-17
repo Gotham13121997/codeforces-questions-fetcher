@@ -102,7 +102,6 @@ def download():
             qcf = json.load(codeforces)
             to_be_downloaded = ['A','B'] # YOU CAN PUT 'C','D','E','F','OTHERS'
             left_limit=0 #CHANGE IT TO SET THE LEFT LIMIT
-            total_no
             for i in to_be_downloaded:
                 for j in range(left_limit,len(qcf[i])):
                     print("index= "+str(j))
