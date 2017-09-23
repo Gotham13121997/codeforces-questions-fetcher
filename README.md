@@ -9,7 +9,7 @@ Python script that lets you fetch QUESTIONS from codeforces as html along with i
 * the script runs in two parts
    * first it fetches question urls and saves them in codeforces.json file
    * then it downloads these questions along with the images in it
-* Your submissions will be stored in a folder named A or B or any other difficulty level in the directory in which the script is running
+* Your submissions will be stored in a folder named problemset or any other difficulty level in the directory in which the script is running
 * **IMPORTANT** Do make sure that the folder in which you are running the script doesnt require extra permissions for creating files
 ## EXAMPLE
 ![alt text](https://github.com/Gotham13121997/codeforces-questions-fetcher/blob/master/pics/cf1.png)  
